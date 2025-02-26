@@ -1,4 +1,4 @@
-#Appunti Toeria dei segnali 
+# Appunti Toeria dei segnali 
 
 Appunti scritti su Latex sul corso di Teoria dei segnali nel corso di laurea triennale di ingegneria elettronica presso l'UNIVPM.
 
